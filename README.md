@@ -34,7 +34,7 @@
 <!-- LinkedIn --><a href="https://linkedin.com/in/rakeshsalian039" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><!-- Twitter --><a href="https://twitter.com/rakeshsalian039" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a><!-- StackOverflow --><a href="https://stackoverflow.com/users/8147878/rakesh-salian" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a><!-- GitHub --><a href="https://github.com/rakeshsalian039" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 ### Contact:
-<!-- Mail --><a href="mailto://kalpeshtalkar@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="iOS"/></a><!-- Telegram --><a href="https://t.me/kalpeshtalkar" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<!-- Mail --><a href="mailto://rakeshsalian039@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="iOS"/></a><!-- Telegram --><a href="https://t.me/rakeshsalian039" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
 
 ### GitHub Stats:
