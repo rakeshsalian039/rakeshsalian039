@@ -1,4 +1,4 @@
-### My name is Rakesh salian and I'm a iOS developer! 👋!!! 👋
+### My name is Rakesh salian and I'm a iOS developer! 👋
 
 
 
