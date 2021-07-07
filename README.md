@@ -1,7 +1,7 @@
 ### Namastey 🙏👋
 
 
-# My name is Rakesh salian and I'm a iOS developer! 👋
+# My name is Rakesh salian and I'm an iOS developer! 👋
 ### A passionate mobile app developer from India</h3>
 [![Years](https://badges.pufler.dev/years/rakeshsalian039)](https://github.com/rakeshsalian039) [![Repos](https://badges.pufler.dev/repos/rakeshsalian039)](https://github.com/rakeshsalian039?tab=repositories) 
 
