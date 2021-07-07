@@ -1,4 +1,4 @@
-### Rakesh salian 👋
+### Namastey 🙏👋
 
 
 # My name is Rakesh salian and I'm a iOS developer! 👋
@@ -9,7 +9,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalpeshtalkar" alt="kalpeshtalkar" /></a> </p>-->
 
-- 🔭 I’m currently working on <a href="https://apps.apple.com/app/timez-the-world-clock/id1523532990" target="_blank"><b>TimeZ - The World Clock</b></a>
+- 🔭 I’m currently working on <a href="https://apps.apple.com/us/app/miko2/id1446571216" target="_blank"><b>Miko2</b></a>
 - 🌱 I’m currently learning <a href="https://developer.apple.com/tutorials/swiftui" target="_blank"><b>SwiftUI</b></a>
 - 👨‍💻 All of my projects are available on my <a href="https://github.com/rakeshsalian039" target="_blank"><b>GitHub</b></a>
 - 💬 Ask me about **iOS, Android, Swift, Objective C, Java, Kotlin, Dart**
